@@ -1,0 +1,2 @@
+# x - position; y - position (middle of rectangle); width; height
+99; 116; 78; 78
